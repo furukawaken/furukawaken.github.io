@@ -25,7 +25,7 @@ author_profile: true
 (Supervisor: Toshiaki Hishida)
 
 ## Fellowship
-* FMSP course student, Leading Graduate Course for Frontiers of Mathematical Sciences and Physics, 2017.4-2020.3
+* FMSP course student, Leading Graduate Course for Frontiers of Mathematical Sciences and Physics, 2017.4 - 2020.3
 <!-- ====== -->
 <!-- * Spring 2024: Academic Pages Collaborator -->
 <!--   * GitHub University -->
