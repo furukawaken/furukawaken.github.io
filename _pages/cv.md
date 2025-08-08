@@ -24,6 +24,9 @@ author_profile: true
 * B.S. in Mathematics, Faculty of Science, Nagoya University, 2015.3.  
 (Supervisor: Toshiaki Hishida)
 
+## Grants and External Funding
+* JSPS KAKENHI (Grant-in-Aid for Early-Career Scientists), 22K13948, FY2022 - FY2026, ¥4,290,000.
+
 ## Fellowship
 * FMSP course student, Leading Graduate Course for Frontiers of Mathematical Sciences and Physics, 2017.4 - 2020.3
 <!-- ====== -->
