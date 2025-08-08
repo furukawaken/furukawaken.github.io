@@ -20,13 +20,13 @@ author_profile: true
 
 ## 2024
 - K. Furukawa,  
-"Data Assimilation to the Primitive Equations with \\( L^p \\)-\\( L^q \\)-based Maximal Regularity Approach", J. Math. Fluid Mech., 26, no. 9, 1-32, 2024.12, https://doi.org/10.1007/s00021-023-00843-2.
+"Data Assimilation to the Primitive Equations with \\( L^p \\)-\\( L^q \\)-based Maximal Regularity Approach", J. Math. Fluid Mech., 26, no. 9, 1-32, 2024.12.
 
 - K. Furukawa, H. Kitahata,  
 "Modeling and mathematical analysis of the clogging phenomenon in filtration filters installed in aquaria", Partial Differ. Equ. Appl., 6, 1, 2024.1.
 
 - K. Furukawa, H. Sakamoto, O. Marimo, S. Shima, T. Sulka, T. Miyoshi,  
-"Particle filter data assimilation for ubiquitous unstable trajectories of two-dimensional three-state cellular automata", Nonlinear Dyn., 2024.1, https://doi.org/10.1007/s11071-024-09803-5.
+"Particle filter data assimilation for ubiquitous unstable trajectories of two-dimensional three-state cellular automata", Nonlinear Dyn., 2024.1.
 
 ## 2021
 - K. Furukawa and T. Kashiwabara,  
