@@ -7,11 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
+## Work Experience
+* Assistant Professor, Faculty of Science, Academic Assembly, University of Toyama, 2024.6 -
+
+* PostDoc, Prediction Science Laboratory, Center of Pioneering Research RIKEN, RIKEN, 2020.9 - 2024.5
+
+* PostDoc, Graduate School of Mathematical Sciences, The University of Tokyo, 2020.4 - 2020.8
+
 ## Education
-<!-- ====== -->
-<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
-<!-- * M.S. in Jekyll, GitHub University, 2014 -->
-<!-- * B.S. in GitHub, GitHub University, 2012 -->
 * Ph.D in Mathematical Science, Graduate School of Mathematical Sciences, The University of Tokyo, 2020.3.  
 (Supervisor: Yoshikazu Giga)
 
@@ -20,13 +23,6 @@ author_profile: true
 
 * B.S. in Mathematics, Nagoya University, 2015.3.  
 (Supervisor: Toshiaki Hishida)
-
-## Work Experience
-* Assistant Professor, Faculty of Science, Academic Assembly, University of Toyama, 2024.6 -
-
-* PostDoc, Prediction Science Laboratory, Center of Pioneering Research RIKEN, RIKEN, 2020.9 - 2024.5
-
-* PostDoc, Graduate School of Mathematical Sciences, The University of Tokyo, 2020.4 - 2020.8
 
 ## Fellowship
 * FMSP course student, Leading Graduate Course for Frontiers of Mathematical Sciences and Physics, 2017.4-2020.3
