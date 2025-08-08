@@ -30,8 +30,7 @@ author_profile: true
 * 動的境界条件下での移流拡散方程式 と濾過現象について, 日本数学会2024年度年会, 大阪公立大学, 2024.3.
 
 ## 2023
-### English
-
+<!--### English-->
 ### Japanese
 * アクアリウムに対するシンプルな濾過のモデルと動的境界条件付き 移流拡散方程式について, 数理解析若手交流会, オンライン, 2023.12.
 * いくつかの力学系とそのデータ同化による予測について, 数値解析セミナー, 東京大学, 2023.11.
@@ -39,7 +38,6 @@ author_profile: true
 * 最大正則性のクラスでのプリミティブ方程式のデータ同化, 2023年度日本数学会年会, 中央大学, 2023.3.
 * Nudging Type Data Assimilation to the Primitive Equations in \\( L_p \\)-\( L_q \\) Maximal Regularity Setting, 若手による流体力学の基礎方程式研究集会, 名古屋大学, 2023.1.
  
-
 ## 2022
 ### English
 * Singular limit Problem from the Scaled Navier-Stokes Equations to the Primitive Equations in \\( L^\infty_{x_3}L^p_H(\Torus^3) \\), Mathematical Advances in Geophysical Flows, CIRM, FRANCE, 2022.4.
@@ -51,7 +49,6 @@ author_profile: true
 
 ## 2021
 <!--### English-->
-
 ### Japanese
 * プリミティブ方程式とNavier-Stokes方程式に関連する特異極限問題について, 九州関数方程式セミナー, 2021.11.
 * Dirichlet 境界条件の下でのプリミティブ方程式における静水圧近似の数学的正当化, 日本数学会2021年秋季, 2021.9.
@@ -59,8 +56,7 @@ author_profile: true
 ## 2020
 ### English
 * Maximal Regularity and Partial Differential Equations, iThems 理化学研究所数理創造プログラム 数学セミナー, zoom, 2020.9.
-
-### Japanese
+<!--### Japanese-->
 
 ## 2019
 ### English
@@ -72,7 +68,6 @@ author_profile: true
 ## 2018
 ### English
 * Asymptotic stability of the three-dimensional Oseen vortex, The 15th Japanese-German International Workshop on Mathematical Fluid Dynamics, Waseda University, JAPAN, 2018.1.
-
 ### Japanese
 * Rigorous justification of the hydrostatic approximation for the primitive equations by the Navier-Stokes equations, 名古屋微分方程式セミナー, 名古屋大学, 2018.10.
 * Primitive 方程式における静水圧近似の正当化, 日本数学会2018年度秋季総合分科会, 岡山大学, 2018.9.
