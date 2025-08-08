@@ -21,7 +21,7 @@ author_profile: true
 * M.S. in Mathematical Science, Graduate School of Mathematical Sciences, The University of Tokyo, 2017.3.  
 (Supervisor: Yoshikazu Giga)
 
-* B.S. in Mathematics, Nagoya University, 2015.3.  
+* B.S. in Mathematics, Faculty of Science, Nagoya University, 2015.3.  
 (Supervisor: Toshiaki Hishida)
 
 ## Fellowship
