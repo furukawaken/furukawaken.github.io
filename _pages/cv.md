@@ -17,7 +17,9 @@ author_profile: true
 -- * B.S. in Mathematics, Nagoya University, 2015, (Supervisor: Toshiaki Hishida)
 
 ## Work Experience
--- * PostDoc in The University of Tokyo
+-- * PostDoc, Graduate School of Mathematical Sciences, The University of Tokyo, 2020.4-2020.8
+-- * PostDoc, Prediction Science Laboratory, Center of Pioneering Research RIKEN, RIKEN, 2020.9-2024.5
+-- * Assistant Professor, Faculty of Science, Academic Assembly, University of Toyama, 2024.6-
 <!-- ====== -->
 <!-- * Spring 2024: Academic Pages Collaborator -->
 <!--   * GitHub University -->
