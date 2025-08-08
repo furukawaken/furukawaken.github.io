@@ -12,5 +12,3 @@ Most of them are hosted on [GitHub](https://github.com/furukawaken).
 
 <!-- 🔗 [my-awesome-solver](https://github.com/furukawaken/my-awesome-solver) -->
 <!--  A fast solver for PDEs using Runge-Kutta schemes.-->
-
-
