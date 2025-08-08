@@ -11,7 +11,7 @@ Assistant Professor
 Faculty of Science, Academic Assembly, University of Toyama,
 
 ## Research Interests
-- Partial Differential Equations (PDEs), especially those arising in fluid dynamics and diffusion phenomena  
+- Analysis of PDEs arising in fluid dynamics and diffusion phenomena  
 - Functional Analysis and Operator Theory  
 - Data Assimilation and Control Theory  
 - Mathematical Modeling of Physical and Biological Systems  
