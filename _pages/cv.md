@@ -3,8 +3,6 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}
@@ -32,7 +30,7 @@ redirect_from:
 <!--   * Duties included: Tagging issues -->
 <!--   * Supervisor: Professor Git -->
 
-## Skills
+<!--## Skills-->
 <!-- ====== -->
 <!-- * Skill 1 -->
 <!-- * Skill 2 -->
@@ -41,13 +39,13 @@ redirect_from:
 <!--   * Sub-skill 2.3 -->
 <!-- * Skill 3 -->
 
-## Publications
-[View publications on researchmap](https://researchmap.jp/kenfurukawa/published_papers)
+<!--## Publications-->
+<!--[View publications on researchmap](https://researchmap.jp/kenfurukawa/published_papers)-->
 
-## Talks
-[View talks on researchmap](https://researchmap.jp/kenfurukawa/presentations)
+<!--## Talks-->
+<!--[View talks on researchmap](https://researchmap.jp/kenfurukawa/presentations)-->
 
-## Teaching
+<!--## Teaching-->
 <!-- ====== -->
 <!-- <ul> -->
 <!-- {% for post in site.teaching reversed %} -->
@@ -55,6 +53,6 @@ redirect_from:
 <!-- {% endfor %} -->
 <!-- </ul> -->
 
-## Service and Leadership
+<!--=## Service and Leadership-->
 <!-- ====== -->
 <!-- * Currently signed in to 43 different Slack teams -->
