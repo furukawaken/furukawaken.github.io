@@ -7,10 +7,10 @@ author_profile: true
 
 ## 2025
 - K. Furukawa,  
-"Well-Posedness of the Cauchy Problem for One-Dimensional Nonlinear Diffusion Equations with Dynamic and Fourth-Type Boundary Conditions in the $Lp$ $Lq$ Maximal Regularity Setting", arXiv preprint, 2025.8.
+"Well-Posedness of the Cauchy Problem for One-Dimensional Nonlinear Diffusion Equations with Dynamic and Fourth-Type Boundary Conditions in the \\( Lp \\) \\( Lq \\) Maximal Regularity Setting", arXiv preprint, 2025.8.
 
 - K. Furukawa,  
-"Data assimilation for the primitive equations in H^2", Nonlinearity, 38, 7, Paper No. 075020, 2025.6.
+"Data assimilation for the primitive equations in \\( H^2 \\)", Nonlinearity, 38, 7, Paper No. 075020, 2025.6.
 
 - K. Furukawa, Y. Giga, N. Kajiwara,  
 "No formation of a new phase for a free boundary problem in combustion theory", Journal of Elliptic and Parabolic Equations, 2025.6.
@@ -20,7 +20,7 @@ author_profile: true
 
 ## 2024
 - K. Furukawa,  
-"Data Assimilation to the Primitive Equations with $L^p$-$L^q$-based Maximal Regularity Approach", J. Math. Fluid Mech., 26, no. 9, 1-32, 2024.12, https://doi.org/10.1007/s00021-023-00843-2.
+"Data Assimilation to the Primitive Equations with \\( L^p \\)-\\( L^q \\)-based Maximal Regularity Approach", J. Math. Fluid Mech., 26, no. 9, 1-32, 2024.12, https://doi.org/10.1007/s00021-023-00843-2.
 
 - K. Furukawa, H. Kitahata,  
 "Modeling and mathematical analysis of the clogging phenomenon in filtration filters installed in aquaria", Partial Differ. Equ. Appl., 6, 1, 2024.1.
@@ -30,10 +30,10 @@ author_profile: true
 
 ## 2021
 - K. Furukawa and T. Kashiwabara,  
-"JUSTIFICATION OF THE HYDROSTATIC APPROXIMATION OF THE PRIMITIVE EQUATIONS IN ANISOTROPIC SPACE $L^{\infty}_H L^q_{x_3}　(　\mathbb{T}^3　)$", Advances in Mathematical Sciences and Applications, no. 1, 45-71, 2022.11, https://mcm-www.jwu.ac.jp/~aikit/AMSA/current.html$\#$fh5co-tab-feature-vertical3.
+"JUSTIFICATION OF THE HYDROSTATIC APPROXIMATION OF THE PRIMITIVE EQUATIONS IN ANISOTROPIC SPACE \\( L^{\infty}_H L^q_{x_3}　(　\mathbb{T}^3　) \\)", Advances in Mathematical Sciences and Applications, no. 1, 45-71, 2022.11.
 
 - K. Furukawa and N. Kajiwara,  
-"Maximal $L_p$-$L_q$ regularity for the quasi-steady elliptic problems", J. Evol. Equ., 21, no. 2, 1601-1625, 2021. 12, https://doi.org/10.1007/s00028-020-00638-2.
+"Maximal \\( L_p \\)-\\( L_q \\) regularity for the quasi-steady elliptic problems", J. Evol. Equ., 21, no. 2, 1601-1625, 2021. 12, https://doi.org/10.1007/s00028-020-00638-2.
 	
 - K. Furukawa, Y. Giga, and T. Kashiwabara,  
 "The hydrostatic approximation for the primitive equations by the scaled Navier-Stokes equations under the no-slip boundary condition", J. Evol. Equ. 21, no. 3, 3331-3373, 2021.9, https://doi.org/10.1007/s00028-021-00674-6.
