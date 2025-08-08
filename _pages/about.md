@@ -8,7 +8,7 @@ redirect_from:
 ---
 # Ken FURUKAWA  
 Assistant Professor  
-Faculty of Science, University of Toyama
+Faculty of Science, Academic Assembly, University of Toyama,
 
 ## Research Interests
 - Partial Differential Equations (PDEs), especially those arising in fluid dynamics and diffusion phenomena  
