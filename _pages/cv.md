@@ -12,11 +12,12 @@ author_profile: true
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 <!-- * M.S. in Jekyll, GitHub University, 2014 -->
 <!-- * B.S. in GitHub, GitHub University, 2012 -->
--- * Ph.D in Mathematical Science, The University of Tokyo, 2020
--- * M.S. in Mathematical Science, The University of Tokyo, 2017
--- * B.S. in Mathematics, Nagoya University, 2015
+-- * Ph.D in Mathematical Science, The University of Tokyo, 2020 (Supervisor: Yoshikazu Giga)
+-- * M.S. in Mathematical Science, The University of Tokyo, 2017 (Supervisor: Yoshikazu Giga)
+-- * B.S. in Mathematics, Nagoya University, 2015, (Supervisor: Toshiaki Hishida)
 
 ## Work Experience
+-- * PostDoc in The University of Tokyo
 <!-- ====== -->
 <!-- * Spring 2024: Academic Pages Collaborator -->
 <!--   * GitHub University -->
