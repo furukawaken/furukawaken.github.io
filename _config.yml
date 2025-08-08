@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Ken FURUKAWA / Personal Website"
 title_separator          : "-"
 name                     : &name "Ken FURUKAWA"
 description              : &description "personal description"
@@ -23,13 +23,13 @@ repository               : "furukawaken/furukawaken.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Ken FURUKAWA"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  #bio              : "Short biography for the left-hand sidebar"
+  location         : "Toyama"
+  employer         : "University of Toyama"
   uri              : # URL
-  email            : "none@example.org" 
+  #email            : "none@example.org" 
 
   # Academic websites
   academia         : # URL
