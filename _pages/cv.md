@@ -16,10 +16,6 @@ author_profile: true
 -- * M.S. in Mathematical Science, The University of Tokyo, 2017
 -- * B.S. in Mathematics, Nagoya University, 2015
 
-- Ph.D. in Mathematical Sciences, The University of Tokyo, 2020  
-- M.S. in Mathematical Sciences, The University of Tokyo, 2017  
-- B.S. in Mathematics, Nagoya University, 2015
-
 ## Work Experience
 <!-- ====== -->
 <!-- * Spring 2024: Academic Pages Collaborator -->
