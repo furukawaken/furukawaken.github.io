@@ -30,19 +30,19 @@ author_profile: true
 
 ## 2021
 - K. Furukawa and T. Kashiwabara,  
-"JUSTIFICATION OF THE HYDROSTATIC APPROXIMATION OF THE PRIMITIVE EQUATIONS IN ANISOTROPIC SPACE \\( L^{\infty}_H L^q_{x_3}　(　\mathbb{T}^3　) \\)", Advances in Mathematical Sciences and Applications, no. 1, 45-71, 2022.11.
+"JUSTIFICATION OF THE HYDROSTATIC APPROXIMATION OF THE PRIMITIVE EQUATIONS IN ANISOTROPIC SPACE \\( L^{\infty}_H L^q_{x_3} ( \mathbb{T}^3 ) \\)", Advances in Mathematical Sciences and Applications, no. 1, 45-71, 2022.11.
 
 - K. Furukawa and N. Kajiwara,  
-"Maximal \\( L_p \\)-\\( L_q \\) regularity for the quasi-steady elliptic problems", J. Evol. Equ., 21, no. 2, 1601-1625, 2021. 12, https://doi.org/10.1007/s00028-020-00638-2.
+"Maximal \\( L_p \\)-\\( L_q \\) regularity for the quasi-steady elliptic problems", J. Evol. Equ., 21, no. 2, 1601-1625, 2021. 12.
 	
 - K. Furukawa, Y. Giga, and T. Kashiwabara,  
-"The hydrostatic approximation for the primitive equations by the scaled Navier-Stokes equations under the no-slip boundary condition", J. Evol. Equ. 21, no. 3, 3331-3373, 2021.9, https://doi.org/10.1007/s00028-021-00674-6.
+"The hydrostatic approximation for the primitive equations by the scaled Navier-Stokes equations under the no-slip boundary condition", J. Evol. Equ. 21, no. 3, 3331-3373, 2021.9.
 
 ## 2020
 - K. Furukawa, Y. Giga, M. Hieber, A. Hussein, T. Kashiwabara, and M. Wrona,  
 "Rigorous justification of the hydrostatic approximation for the primitive equations by scaled Navier-Stokes equations", Nonlinearity 33, no. 12, 6502-6516, May 2020, DOI 10.1088/1361-6544/aba509.
 
 - K. Furukawa,  
-"Asymptotic Stability of Small Oseen Type Vortex under Three-Dimensional Large Perturbation", Analysis (Berlin), no. 2, 57-83, Mar. 2020, https://doi.org/10.1515/anly-2018-0037.	
+"Asymptotic Stability of Small Oseen Type Vortex under Three-Dimensional Large Perturbation", Analysis (Berlin), no. 2, 57-83, Mar. 2020.	
 	
 
