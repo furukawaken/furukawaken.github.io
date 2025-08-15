@@ -7,7 +7,7 @@ author_profile: true
 
 ## 2025
 - K. Furukawa,  
-"Well-Posedness of the Cauchy Problem for One-Dimensional Nonlinear Diffusion Equations with Dynamic and Fourth-Type Boundary Conditions in the \\( Lp \\) \\( Lq \\) Maximal Regularity Setting", arXiv preprint, 2025.8.
+"Well-Posedness of the Cauchy Problem for One-Dimensional Nonlinear Diffusion Equations with Dynamic and Fourth-Type Boundary Conditions in the \\( Lp \\) \\( Lq \\) Maximal Regularity Setting", [arXiv preprint](https://arxiv.org/abs/2508.03288), 2025.8.
 
 - K. Furukawa,  
 "Data assimilation for the primitive equations in \\( H^2 \\)", Nonlinearity, 38, 7, Paper No. 075020, 2025.6.
