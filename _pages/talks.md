@@ -9,10 +9,13 @@ author_profile: true
 
 ## 2025
 <!--### English-->
+### English
+* A Diffusion Equation for Filtration Phenomena With the Fourth Boundary Condition
+Workshop Frankenstein 25 - Maximal Regularity Methods in Mathematical Fluid Mechanics, University of Kaiserslautern-Landau, 2025.4.
 
 ### Japanese
 * \\( H^2 \\)でのプリミティブ方程式のデータ同化問題について, 2025年日本数学会年会, 早稲田大学, 2025.3.
-* 流体中の物質の濾過現象に関連する動的境界条件下での1次元移流拡散方程式の適切性について, 2025.日本数学会年会, 早稲田大学, 2025.3.
+* 流体中の物質の濾過現象に関連する動的境界条件下での1次元移流拡散方程式の適切性について, 2025日本数学会年会, 早稲田大学, 2025.3.
 * 濾過を表現する数理モデルについて, 北陸応用数理研究会2024, 石川県政しいのき迎賓館, 2025.2.
 * 動的境界条件の下での偏微分方程式の可解性や挙動やモデリングについて, 2024年度第7回数学談話会, 富山大学, 2025.1.
 
