@@ -10,10 +10,14 @@ author_profile: true
 ## 2025
 <!--### English-->
 ### English
+* * Well-posedness of a drift-diffusion equation with a dynamic boundary condition in maximal \\( L^p \\)-\\( L^q \\) settings, RIMS Workshop Mathematical Analysis in Fluid and Gas Dynamics, RIMS, 2025.3.
 * A Diffusion Equation for Filtration Phenomena With the Fourth Boundary Condition
 Workshop Frankenstein 25 - Maximal Regularity Methods in Mathematical Fluid Mechanics, University of Kaiserslautern-Landau, 2025.4.
 
 ### Japanese
+* ナッジングによるデータ同化とプリミティブ方程式について, 第3回諏訪偏微分方程式研究集会, 北海道大学, 2025.9.
+* 濾過を記述する偏微分方程式の可解性について, 研究会「微分方程式論の拡がり」, 関西学院大学東京丸の内キャンパス, 2025.9.
+* プリミティブ方程式に対するナッジング型データ同化の数学的側面について, JSIAM2025年会正会員OS機械学習の数理, 東京理科大学, 2025.9.
 * \\( H^2 \\)でのプリミティブ方程式のデータ同化問題について, 2025年日本数学会年会, 早稲田大学, 2025.3.
 * 流体中の物質の濾過現象に関連する動的境界条件下での1次元移流拡散方程式の適切性について, 2025日本数学会年会, 早稲田大学, 2025.3.
 * 濾過を表現する数理モデルについて, 北陸応用数理研究会2024, 石川県政しいのき迎賓館, 2025.2.
