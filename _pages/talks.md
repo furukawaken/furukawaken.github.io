@@ -10,7 +10,7 @@ author_profile: true
 ## 2025
 <!--### English-->
 ### English
-* Well-posedness of a drift-diffusion equation with a dynamic boundary condition in maximal \\( L^p \\)-\\( L^q \\) settings, RIMS Workshop Mathematical Analysis in Fluid and Gas Dynamics, RIMS, 2025.3.
+* Well-posedness of a drift-diffusion equation with a dynamic boundary condition in maximal \\( L^p \\)-\\( L^q \\) settings, RIMS Workshop Mathematical Analysis in Fluid and Gas Dynamics, RIMS, 2025.6.
 * A Diffusion Equation for Filtration Phenomena With the Fourth Boundary Condition
 Workshop Frankenstein 25 - Maximal Regularity Methods in Mathematical Fluid Mechanics, University of Kaiserslautern-Landau, 2025.4.
 
