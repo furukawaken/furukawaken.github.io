@@ -28,10 +28,11 @@ author_profile: true
 - K. Furukawa, H. Sakamoto, O. Marimo, S. Shima, T. Sulka, T. Miyoshi,  
 "Particle filter data assimilation for ubiquitous unstable trajectories of two-dimensional three-state cellular automata", Nonlinear Dyn., 2024.1.
 
-## 2021
+## 2022
 - K. Furukawa and T. Kashiwabara,  
 "JUSTIFICATION OF THE HYDROSTATIC APPROXIMATION OF THE PRIMITIVE EQUATIONS IN ANISOTROPIC SPACE \\( L^{\infty}_H L^q_{x_3}(\\mathbb{T}^3) \\)", Advances in Mathematical Sciences and Applications, no. 1, 45-71, 2022.11.
 
+## 2021
 - K. Furukawa and N. Kajiwara,  
 "Maximal \\( L_p \\)-\\( L_q \\) regularity for the quasi-steady elliptic problems", J. Evol. Equ., 21, no. 2, 1601-1625, 2021. 12.
 	
